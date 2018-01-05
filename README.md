@@ -1,2 +1,5 @@
 # hello-world
-Tutorial
+
+Pickle Rick
+github tutorial for first time usage.
+FrontEnd Web Developer - in progress.
